@@ -2,7 +2,7 @@
 
 Install Docker desktop for Windows
 
-Open SSH and type in
+Open Windows Powershell and type in
 docker run -it -p 6650:6650 -p 8080:8080 --mount source=pulsardata1,target=/pulsar/data --mount source=pulsarconf1,target=/pulsar/conf apachepulsar/pulsar:2.6.0 bin/pulsar standalone
 
 This command generates a standlone cluster in your docker

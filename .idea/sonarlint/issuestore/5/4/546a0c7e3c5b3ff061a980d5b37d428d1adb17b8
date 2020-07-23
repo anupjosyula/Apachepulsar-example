@@ -1,0 +1,15 @@
+
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ğ±¢­ûÿÿÿÿ8¥††ãµ.
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(¤ÅÚu8„¸ãµ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åìüÚûÿÿÿÿ
+o	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( È¦şÿÿÿÿ8¾¼ôâµ.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(Ä¡8Ñ…šãµ.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(åâùä8ÃÁ†ãµ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…İ¨8åÍêâµ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¿âºÿÿÿÿÿ8ÛŸèâµ.
+Q
+java:S3740&"/Provide the parametrized type for this generic.(ª™Áœşÿÿÿÿ8”¬Õ”·.
+®
+java:S11304"‹Remove the declaration of thrown exception 'org.apache.pulsar.client.api.PulsarClientException', as it cannot be thrown from method's body.(†ñû«ıÿÿÿÿ8”¬Õ”·.
+¯
+java:S11304"ŒRemove the declaration of thrown exception 'org.apache.pulsar.client.admin.PulsarAdminException', as it cannot be thrown from method's body.(†ñû«ıÿÿÿÿ8”¬Õ”·.

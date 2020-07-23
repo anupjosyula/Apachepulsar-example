@@ -1,0 +1,39 @@
+
+_
+java:S1128"LRemove this unused import 'org.apache.pulsar.common.policies.data.Policies'.(¦¸˜f
+Z
+java:S1128"FRemove this unused import 'org.apache.pulsar.client.api.PulsarClient'.(™»¥
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¸¬ùØúÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(¿õ™úùÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ï´‡½úÿÿÿÿ
+Q
+java:S1128"8Remove this unused import 'java.net.URISyntaxException'.(Ä®íÿÿÿÿÿ
+K
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+t
+java:S1128"[Remove this unused import 'org.apache.pulsar.client.api.url.PulsarURLStreamHandlerFactory'.(çŸâÑıÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(Ùù°Èúÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ïº²Õ
+T	java:S125"<This block of commented-out lines of code should be removed.(€Óúÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(Óö„©ûÿÿÿÿ
+O
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(‚‘”ïÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¶àÎÃúÿÿÿÿ
+V
+java:S1128"BRemove this unused import 'org.apache.pulsar.client.api.Producer'.(Çëè
+S
+java:S1854":Remove this useless assignment to local variable "mapper".(ĞÏáúÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(º€÷“
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¨•à
+Z
+java:S1128"ARemove this unused import 'org.apache.pulsar.client.api.url.URL'.(ˆ˜÷÷üÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ãàó÷üÿÿÿÿ
+F
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+[	java:S125"<This block of commented-out lines of code should be removed.(Í®ÀÚûÿÿÿÿ8î¶çâ¶.
+e	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İöÒ˜úÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(Œ¾×–ùÿÿÿÿ
+D
+java:S1481"+Remove this unused "mapper" local variable.(ĞÏáúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Èæ•ã8°Ğåâ¶.

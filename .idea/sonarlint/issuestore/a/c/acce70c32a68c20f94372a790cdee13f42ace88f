@@ -1,0 +1,10 @@
+
+Z
+java:S2259/"DA "NullPointerException" could be thrown; "client" is nullable here.(´Ú’
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ã´üÃúÿÿÿÿ
+L
+java:S1066#"/Merge this if statement with the enclosing one.(ñ†Óï8Èï•„·.
+]	java:S125"<This block of commented-out lines of code should be removed.(ğ€İâøÿÿÿÿ8ŞŠì¶.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åìüÚûÿÿÿÿ
+b
+java:S2095"FUse try-with-resources or close this "Producer" in a "finally" clause.(Éíò58¬Õ”·.

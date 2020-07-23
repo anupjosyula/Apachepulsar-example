@@ -1,0 +1,26 @@
+
+t
+java:S14883"^Immediately return this expression instead of assigning it to the temporary variable "claims".(¤‹ıà
+k
+java:S3008"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òçüœ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Èá‘ÿÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(‹ğÎŒ
+U
+java:S1854;":Remove this useless assignment to local variable "mapper".(ĞÏáúÿÿÿÿ
+Q	java:S125A"<This block of commented-out lines of code should be removed.(ÒŸØí
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°êÿÒúÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(ã—
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åìüÚûÿÿÿÿ
+F
+java:S1481;"+Remove this unused "mapper" local variable.(ĞÏáúÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(•ŠÏ8
+R
+java:S1874)"0Remove this use of "signWith"; it is deprecated.(øö„ùÿÿÿÿ8“¬Õ”·.
+K
+java:S18743".Remove this use of "parser"; it is deprecated.(¤‹ıà8“¬Õ”·.
+W
+java:S18744"5Remove this use of "setSigningKey"; it is deprecated.(‘Îó§ıÿÿÿÿ8“¬Õ”·.
+Æ
+java:S11309"£Remove the declaration of thrown exception 'org.apache.pulsar.shade.com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(æ°ò‡ûÿÿÿÿ8“¬Õ”·.
+¡
+java:S11309"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(æ°ò‡ûÿÿÿÿ8“¬Õ”·.

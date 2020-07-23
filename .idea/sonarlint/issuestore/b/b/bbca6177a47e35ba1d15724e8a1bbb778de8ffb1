@@ -1,0 +1,30 @@
+
+P	java:S125)"<This block of commented-out lines of code should be removed.(ûÁß&
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ìÔµÂ
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(×¾¤¤üÿÿÿÿ8…ûìäµ.
+i
+java:S2259J"GA "NullPointerException" could be thrown; "signedJWT" is nullable here.(ÛùŸÎúÿÿÿÿ8¹«Ï„·.
+v	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÿ‘³ûÿÿÿÿ8ÃŞòäµ.
+q
+java:S14884"[Immediately return this expression instead of assigning it to the temporary variable "jws".(öÆ¯É
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(¥¦ç˜ûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—›ü×
+T	java:S106F"9Replace this use of System.out or System.err by a logger.(¤ÅÚu8…ûìäµ.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(åâùä8…ûìäµ.
+T	java:S106R"9Replace this use of System.out or System.err by a logger.(ÑıÍ8öµ—Şµ.
+]	java:S125S"<This block of commented-out lines of code should be removed.(´½ó‚úÿÿÿÿ8ÎŸıäµ.
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Èá‘ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Í×¶Šøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ããâªúÿÿÿÿ
+o	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹”³Úøÿÿÿÿ8™´êäµ.
+V	java:S125%"<This block of commented-out lines of code should be removed.(ëâÉ¨ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åìüÚûÿÿÿÿ
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ÛùŸÎúÿÿÿÿ8›ûÎ„·.
+Q
+java:S3740?"/Provide the parametrized type for this generic.(ª™Áœşÿÿÿÿ8¬Õ”·.
+R
+java:S18748"0Remove this use of "signWith"; it is deprecated.(¼Şè¦ıÿÿÿÿ8¬Õ”·.
+®
+java:S1130N"‹Remove the declaration of thrown exception 'org.apache.pulsar.client.api.PulsarClientException', as it cannot be thrown from method's body.(†ñû«ıÿÿÿÿ8¬Õ”·.
+¯
+java:S1130N"ŒRemove the declaration of thrown exception 'org.apache.pulsar.client.admin.PulsarAdminException', as it cannot be thrown from method's body.(†ñû«ıÿÿÿÿ8¬Õ”·.
